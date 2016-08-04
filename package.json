@@ -10,9 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
+    "cookie-session": "^2.0.0-alpha.1",
     "dotenv": "^2.0.0",
+    "ejs": "^2.5.1",
     "express": "^4.14.0",
+    "jquery": "^3.1.0",
     "knex": "^0.11.7",
+    "locus": "^1.2.0",
     "method-override": "^2.3.6",
     "pg": "^6.0.2"
   }
