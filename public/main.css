@@ -1,0 +1,29 @@
+
+/*================================================================ */
+/*parallax
+/*================================================================ */
+
+#mainPage.content-holder.parallax {
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+
+}
+
+.parallax-window {
+  /*min-height: 700px;*/
+  background: transparent;
+  height: 100vh;
+  white-space: nowrap;
+}
+
+.legend {
+  color: white;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  font-size: 75px;
+  position: relative;
+  bottom: 600px;
+}
