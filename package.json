@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
@@ -20,6 +21,7 @@
     "locus": "^1.2.0",
     "logger": "0.0.1",
     "method-override": "^2.3.6",
+    "morgan": "^1.7.0",
     "pg": "^6.0.2"
   }
 }
